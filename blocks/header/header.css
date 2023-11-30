@@ -1,0 +1,12 @@
+@import url(./__logo/header__logo.css);
+@import url(./__navigation/header__navigation.css);
+@import url(./__navigation-elements/header__navigation-elements.css);
+@import url(./__navigation-element/header__navigation-element.css);
+@import url(./__button-download/header__button-download.css);
+@import url(./__button-card/header__button-card.css);
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

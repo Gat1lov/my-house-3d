@@ -1,0 +1,8 @@
+.how-to-choose__link:first-of-type {
+    opacity: 60%;
+}
+
+.how-to-choose__link:nth-child(2) {
+    margin: 0 8px;
+    opacity: 60%;
+}

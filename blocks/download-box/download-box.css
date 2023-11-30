@@ -1,0 +1,16 @@
+@import url(./__slider/download-box__slider.css);
+@import url(./__slider-image/download-box__slider-image.css);
+@import url(./__slider-dots/download-box__slider-dots.css);
+@import url(./__slider-dot/download-box__slider-dot.css);
+@import url(./__content/download-box__content.css);
+@import url(./__text/download-box__text.css);
+@import url(./__loading-elements/download-box__loading-elements.css);
+@import url(./__button-element/download-box__button-element.css);
+@import url(./__feature-element/download-box__feature-element.css);
+@import url(./__windows-icon/download-box__windows-icon.css);
+
+
+.download-box {
+    margin: 60px 0 0 165px;
+    display: flex;
+}

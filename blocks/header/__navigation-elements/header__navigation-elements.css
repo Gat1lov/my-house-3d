@@ -1,0 +1,8 @@
+.header__navigation-elements {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,9 @@
+.video-review__subtitle {
+    margin: 40 0 0;
+    max-width: 971px;
+    font-family: 'nunitoReg', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #343A40;
+}

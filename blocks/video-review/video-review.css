@@ -1,0 +1,9 @@
+@import url(./__title/video-review__title.css);
+@import url(./__subtitle/video-review__subtitle.css);
+@import url(./__arguments/video-review__arguments.css);
+@import url(./__argument/video-review__argument.css);
+@import url(./__video/video-review__video.css);
+
+.video-review {
+    margin: 60px 0 0 165px;
+}

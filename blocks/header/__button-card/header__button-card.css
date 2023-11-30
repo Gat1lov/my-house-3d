@@ -1,0 +1,14 @@
+.header__button-card {
+    margin: 0;
+    padding: 14px 18.5px;
+    cursor: pointer;
+    font-family: 'nunitoSemiBold', sans-serif;
+    font-size: 16px;
+    letter-spacing: .16px;
+    background: linear-gradient(to right, #19B37D, #188A7B);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    border: 1px solid #188A7B;
+    border-radius: 5px;
+}

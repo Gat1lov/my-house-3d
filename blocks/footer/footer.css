@@ -1,0 +1,10 @@
+@import url(./__socials/footer__socials.css);
+@import url(./__logo/footer__logo.css);
+@import url(./__link-box/footer__link-box.css);
+@import url(./__link/footer__link.css);
+@import url(./__copyrights/footer__copyrights.css);
+
+
+.footer {
+    margin: 62px 0;
+}

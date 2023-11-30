@@ -1,0 +1,11 @@
+@import url(./__title/answer-box__title.css);
+@import url(./__text/answer-box__text.css);
+@import url(./__question-сontrol/answer-box__question-сontrol.css);
+@import url(./__question/answer-box__question.css);
+@import url(./__button/answer-box__button.css);
+@import url(./__answer/answer-box__answer.css);
+
+.answer-box{
+    margin: 60px auto auto;
+    max-width: 970px;
+}

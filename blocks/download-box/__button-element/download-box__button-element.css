@@ -1,0 +1,14 @@
+.download-box__button-element {
+    margin: 0 10px 0 0;
+    padding: 17.5px 23px;
+    cursor: pointer;
+    font-family: 'nunitoSemiBold', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24.55px;
+    color: #FFFFFF;
+    background: linear-gradient(to right, #259BFF, #0057FF);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 2px 22px 0px #0057FF6E;
+}

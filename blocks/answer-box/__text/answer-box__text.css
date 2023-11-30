@@ -1,0 +1,7 @@
+.answer-box__text {
+    margin: 40px auto 0;
+}
+
+.answer-box__text:first-of-type {
+    margin-top: 50px;
+}

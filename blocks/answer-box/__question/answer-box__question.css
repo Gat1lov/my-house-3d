@@ -1,0 +1,8 @@
+.answer-box__question {
+    margin: 0 0 20px;
+    font-family: 'nunitoBold', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28.6px;
+    color: #343A40;
+}

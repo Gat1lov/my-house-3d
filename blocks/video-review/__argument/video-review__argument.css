@@ -1,0 +1,7 @@
+.video-review__argument {
+    margin: 0 0 15px;
+}
+
+.video-review__argument:last-of-type {
+    margin: 0;
+}

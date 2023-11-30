@@ -1,0 +1,10 @@
+.root {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1440px;
+    justify-content: center;
+    font-family: 'nunitoReg', sans-serif;
+    background-color: #ffffff;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}

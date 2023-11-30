@@ -1,0 +1,15 @@
+.header__button-download {
+    margin: 0 12px 0 0;
+    padding: 14px 18.5px;
+    cursor: pointer;
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    line-height: 19.36px;
+    letter-spacing: .16px;
+    color: #FFFFFF;
+    background: linear-gradient(to right, #259BFF, #0057FF);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 2px 22px 0px #0057FF6E;
+
+}

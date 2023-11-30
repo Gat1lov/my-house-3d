@@ -1,0 +1,20 @@
+.download-box__slider-dot {
+    margin: 0 7px 0 0;
+    background-image: url(../../../images/dot.svg);
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+}
+
+.download-box__slider-dot:last-of-type {
+    margin: 0;
+}
+
+.active {
+    background-image: url(../../../images/dot-active.svg);
+    width: 13px;
+    height: 13px;
+}

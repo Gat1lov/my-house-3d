@@ -1,0 +1,13 @@
+.answer-box__button {
+    background-image: url(../../../images/active-answer.svg);
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    width: 26px;
+    height: 26px;
+}
+
+.deactive {
+    background-image: url(../../../images/deactive-answer.svg);
+}

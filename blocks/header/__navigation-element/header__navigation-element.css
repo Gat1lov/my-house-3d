@@ -1,0 +1,13 @@
+.header__navigation-element {
+    font-family: 'nunitoReg', sans-serif;
+    margin: 0 25px 0 0;
+    font-size: 16px;
+    letter-spacing: .16px;
+    line-height: 21.82px;
+    color: #6B707E;
+    font-weight: 400;
+}
+
+.header__navigation-element:nth-of-type(3) {
+    margin-right: 40px;
+}

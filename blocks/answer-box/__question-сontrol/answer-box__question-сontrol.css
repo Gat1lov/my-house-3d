@@ -1,0 +1,4 @@
+.answer-box__question-сontrol {
+    display: flex;
+    justify-content: space-between;
+}

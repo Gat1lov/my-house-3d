@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'inter';
+    src: url(Inter-Medium.woff2) format("woff2"),
+        url(Inter-Medium.woff) format("woff");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'nunitoReg';
+    src: url(NunitoSans-Regular.woff2) format("woff2"),
+        url(NunitoSans-Regular.woff) format("woff");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'nunitoSemiBold';
+    src: url(NunitoSans-SemiBold.woff2) format("woff2"),
+        url(NunitoSans-SemiBold.woff) format("woff");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'nunitoBold';
+    src: url(NunitoSans-Bold.woff2) format("woff2"),
+        url(NunitoSans-Bold.woff) format("woff");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 700;
+}

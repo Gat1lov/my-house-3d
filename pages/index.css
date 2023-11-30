@@ -1,0 +1,21 @@
+@import url(../vendor/normalize.css);
+
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/how-to-choose/how-to-choose.css);
+
+@import url(../blocks/download-box/download-box.css);
+
+@import url(../blocks/video-review/video-review.css);
+
+@import url(../blocks/answer-box/answer-box.css);
+
+@import url(../blocks/footer/footer.css);
+
+@import url(../blocks/popup-video/popup-video.css);
+
+@import url(../blocks/video/video.css);

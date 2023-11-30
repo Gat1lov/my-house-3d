@@ -1,0 +1,16 @@
+@import url(./__text-box/how-to-choose__text-box.css);
+@import url(./__links/how-to-choose__links.css);
+@import url(./__link/how-to-choose__link.css);
+@import url(./__title/how-to-choose__title.css);
+@import url(./__subtitle/how-to-choose__subtitle.css);
+@import url(./__house-image/how-to-choose__house-image.css);
+@import url(./__author/how-to-choose__author.css);
+@import url(./__author-info/how-to-choose__author-info.css);
+@import url(./__author-name/how-to-choose__author-name.css);
+@import url(./__author-profession/how-to-choose__author-profession.css);
+
+.how-to-choose{
+    margin: 14px 0 0;
+    background: linear-gradient(to right, #E9DEFA, #FBFCDB);
+    display: flex;
+}
